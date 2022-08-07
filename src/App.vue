@@ -1,9 +1,12 @@
+<script setup>
+
+</script>
+
 <template>
   <h1>Terrance Bryant</h1>
-  <!-- <router-view/> -->
 </template>
 
-<style lang="scss">
+<style>
     * {
         margin: 0;
         padding: 0;
